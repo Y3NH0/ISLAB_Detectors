@@ -1,0 +1,5 @@
+https://github.com/kevin168777/Gramac_detector.git
+https://github.com/Y3NH0/GraphTheoryDetector.git
+https://github.com/Jim16888/Opcode_detector.git
+https://github.com/M11115015/graphity_detection.git
+https://github.com/liangyuHo/ReinterpretedFCG.git
